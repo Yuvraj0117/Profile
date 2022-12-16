@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UchihaItachi0007
+- 👋 Hi, I’m @Lynx07
 - 👀 I’m interested in ...Coding.
 - 🌱 I’m learning...JavaScript
 
